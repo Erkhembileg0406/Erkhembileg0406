@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Erkhembileg.
+- 👀 I’m interested in designing a website and database.
+- 🌱 I’m currently learning informatics.
+- 📫 How to reach: eerdene@iu.edu is my email.
